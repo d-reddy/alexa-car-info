@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/d-reddy/noteify/issues"
   },
-  "homepage": "https://github.com/d-reddy/noteify#readme"
+  "homepage": "https://github.com/d-reddy/noteify#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.24"
+  }
 }
