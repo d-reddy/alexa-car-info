@@ -2,20 +2,6 @@
   "name": "noteify",
   "version": "1.0.0",
   "description": "alexa notify app",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/d-reddy/noteify.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/d-reddy/noteify/issues"
-  },
-  "homepage": "https://github.com/d-reddy/noteify#readme",
   "dependencies": {
     "alexa-sdk": "^1.0.24"
   }
