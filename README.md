@@ -1,6 +1,6 @@
-**ALEXA-CAR-INFO**
+# ALEXA-CAR-INFO
 
-# Summary
+## Summary
 
 This is just a quick go at getting familiar with developing an Alexa skill.
 The purpose of this skill is to just provide some basic functionality to
