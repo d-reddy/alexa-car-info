@@ -1,0 +1,8 @@
+{
+  "name": "noteify",
+  "version": "1.0.0",
+  "description": "alexa notify app",
+  "dependencies": {
+    "alexa-sdk": "^1.0.24"
+  }
+}
