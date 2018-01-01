@@ -1,0 +1,6 @@
+Custom Slot types
+
+CAR_MODELS
+  golf
+  touareg
+  veyron
